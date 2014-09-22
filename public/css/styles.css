@@ -1,0 +1,107 @@
+body {
+  padding: 50px;
+  font-family: 'Raleway', sans-serif;
+  background-image: url("http://38.media.tumblr.com/3b23226741c8482e4266c6974421c806/tumblr_mup1wnrr1B1qg49aro1_1280.png");
+  margin-top: 0;
+  padding-top: 0; }
+
+a {
+  color: #00B7FF; }
+
+ul li {
+  list-style: none; }
+
+.authormessagetextbox {
+  height: 46px;
+  width: 198px;
+  font-size: 22px; }
+
+button {
+  height: 46px;
+  font-family: 'Raleway', sans-serif; }
+
+.message {
+  margin-left: 1%;
+  width: 67%;
+  height: 46px;
+  font-size: 22px; }
+
+.users {
+  border: solid;
+  overflow: scroll;
+  height: 400px;
+  width: 180px;
+  border: hidden 5px #000000;
+  -moz-border-radius-topleft: 5px;
+  -moz-border-radius-topright: 5px;
+  -moz-border-radius-bottomleft: 22px;
+  -moz-border-radius-bottomright: 28px;
+  -webkit-border-top-left-radius: 5px;
+  -webkit-border-top-right-radius: 5px;
+  -webkit-border-bottom-left-radius: 22px;
+  -webkit-border-bottom-right-radius: 28px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 22px;
+  border-bottom-right-radius: 28px;
+  background-color: rgba(255, 255, 255, 0.6); }
+
+header {
+  font-family: 'Raleway', sans-serif;
+  background-color: white;
+  height: 80px;
+  margin: 0;
+  padding: 0;
+  background-color: rgba(255, 255, 255, 0.6);
+  padding-left: 0;
+  margin-top: -1%;
+  color: gray;
+  position: absolute;
+  margin-top: 1%;
+  width: 85%;
+  margin-left: -1%; }
+
+hr {
+  color: white;
+  background-color: white;
+  height: 5px; }
+
+.fa {
+  color: #5c7ee6; }
+
+.convoBox {
+  border: solid;
+  overflow: scroll;
+  height: 400px;
+  width: 940px;
+  border: hidden 5px #000000;
+  -moz-border-radius-topleft: 5px;
+  -moz-border-radius-topright: 5px;
+  -moz-border-radius-bottomleft: 22px;
+  -moz-border-radius-bottomright: 28px;
+  -webkit-border-top-left-radius: 5px;
+  -webkit-border-top-right-radius: 5px;
+  -webkit-border-bottom-left-radius: 22px;
+  -webkit-border-bottom-right-radius: 28px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 22px;
+  border-bottom-right-radius: 28px;
+  margin-left: 3%;
+  background-color: rgba(255, 255, 255, 0.6); }
+
+h1 {
+  text-align: center; }
+
+h3 {
+  margin-left: 10%;
+  font-size: 25px;
+  margin-top: 9%;
+  color: #4a4d52; }
+
+h2 {
+  color: #4a4d52; }
+
+.convoInput {
+  margin-top: 2%;
+  margin-left: -1%; }
